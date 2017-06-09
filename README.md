@@ -1,4 +1,8 @@
 # tink
+[![npm version](https://img.shields.io/npm/v/tink.svg)](https://npmjs.com/package/tink)
+[![npm downloads](https://img.shields.io/npm/dm/tink.svg)](https://npmjs.com/package/tink)
+[![license](https://img.shields.io/npm/l/tink.svg)](https://github.com/SzymonLisowiec/tink/blob/master/LICENSE)
+
 Lightweight helper to logging errors your project in node.js
 
 # Constructor

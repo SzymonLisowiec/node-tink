@@ -1,6 +1,6 @@
 {
   "name": "tink",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Lightweight helper to logging errors your project in node.js",
   "main": "index.js",
   "keywords": [
@@ -19,5 +19,9 @@
     "information"
   ],
   "author": "Szymon Lisowiec",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/SzymonLisowiec/tink"
+  }
 }

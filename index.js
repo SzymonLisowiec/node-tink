@@ -5,7 +5,6 @@ const fs = require('fs');
 const config = {
 	logfile: false,
 	showtime: 'YYYY-MM-DD hh:mm:ss.ms',
-	showline: true,
 	bright: false
 };
 const styles = {
