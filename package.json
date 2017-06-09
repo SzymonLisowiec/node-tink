@@ -1,0 +1,23 @@
+{
+  "name": "tink",
+  "version": "1.0.0",
+  "description": "Lightweight helper to logging errors your project in node.js",
+  "main": "index.js",
+  "keywords": [
+    "debugging",
+    "logging",
+    "utilly",
+    "console",
+    "console.log",
+    "colors",
+    "logs",
+    "file",
+    "success",
+    "warning",
+    "error",
+    "note",
+    "information"
+  ],
+  "author": "Szymon Lisowiec",
+  "license": "MIT"
+}
